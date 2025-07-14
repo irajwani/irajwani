@@ -50,8 +50,8 @@ I’m a **Product Designer** and **Fullstack Developer** crafting intuitive prod
 
 ## 🧩 Let’s Collaborate
 
-💬 Got an idea at the intersection of **life**, **tech**, and **impact**?  
-📫 [Reach out](mailto:youremail@example.com) or [connect on LinkedIn](https://linkedin.com/in/yourprofile) — let’s build something meaningful!
+💬 Got an idea at the intersection of **life**, **tech**, and **impact**? 
+Feel free to reach out
 
 ---
 
