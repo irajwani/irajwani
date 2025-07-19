@@ -3,7 +3,7 @@
 
 # 👋 
 
-I’m a **Product Designer** and **Fullstack Developer** crafting intuitive products and building cloud-native systems for modern life.
+I’m a **Product Designer** and **Fullstack Engineer** crafting intuitive products and building cloud-native systems for modern life.
 
 [![Startup](https://img.shields.io/badge/Portfolio-View-informational?style=flat&logo=google-chrome&color=4AB197)](https://nutrimap.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/imad-rajwani-423a12102/))
@@ -11,13 +11,11 @@ I’m a **Product Designer** and **Fullstack Developer** crafting intuitive prod
 
 ---
 
-## 🎯 What I Do
-
-- 🔍 **Product Design**  
-  Insight-driven design process: market research → wireframes → beautiful UI/UX
+- 🎨 **Product Design**  
+  Insight-driven design process: market research → wireframes → modern UI/UX
 
 - 📱 **App Development**  
-  Web and mobile apps with clean architecture and smooth performance
+  Web and mobile apps
 
 - ☁️ **Cloud-Native Engineering**  
   Build and scale systems on **AWS** and **Azure** with high availability and performance in mind
