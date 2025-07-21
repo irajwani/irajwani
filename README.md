@@ -12,10 +12,10 @@ I ship enterprise cloud-native systems and platform features at Checkit Plc 💼
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail)](mailto:imadrajwani@gmail.com)
 
 <div class="grid grid-cols-2">
-<img src="cp.gif" alt="Description" style="width: 100%; height: auto;"/>
-<img src="recipe_form.gif" alt="Description" style="width: 100%; height: auto;"/>
-<img src="cognito.gif" alt="Description" style="width: 100%; height: auto;"/>
-<img src="br_1.jpg" alt="Description" style="width: 45%; height: auto;"/>
+<img src="cp.gif" alt="Description" width=375 />
+<img src="recipe_form.gif" alt="Description" style="width: 375px; height: auto;"/>
+<img src="cognito.gif" alt="Description" style="width: 375px; height: auto;"/>
+<img src="br_1.jpg" alt="Description" style="width: 375px; height: auto;"/>
 </div>
 
 ---
