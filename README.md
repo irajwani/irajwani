@@ -6,7 +6,7 @@ Welcome 👋
 
 🫑 Check out my meal planning [start up](https://nutrimap.netlify.app/)
 
-💼 I ship enterprise cloud-native systems and platform features at Checkit Plc. I can handle DevOps functions, load tests and server-side development
+💼 I ship enterprise cloud-native systems and platform features at Checkit Plc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/imad-rajwani-423a12102/))
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail)](mailto:imadrajwani@gmail.com)
