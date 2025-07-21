@@ -4,6 +4,10 @@ Welcome 👋
 
 I’m a Product focused **Fullstack Engineer** 🎨
 
+Check out my meal planning [start up](https://nutrimap.netlify.app/) 🍳
+
+I ship enterprise cloud-native systems and platform features at Checkit Plc 💼
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/imad-rajwani-423a12102/))
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail)](mailto:imadrajwani@gmail.com)
 
@@ -11,11 +15,7 @@ I’m a Product focused **Fullstack Engineer** 🎨
 ![Recipes](./recipe_form.gif)
 ![Cognito](./cognito.gif)
 
-<img src="br_1.jpg" alt="Description" width="320" height="450"/>
-
-Check out my meal planning [start up](https://nutrimap.netlify.app/) 🍳
-
-I ship enterprise cloud-native systems and platform features at Checkit Plc 💼
+<img src="br_1.jpg" alt="Description" width="300" height="450"/>
 
 ---
 
