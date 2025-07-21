@@ -11,11 +11,12 @@ I ship enterprise cloud-native systems and platform features at Checkit Plc 💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/imad-rajwani-423a12102/))
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail)](mailto:imadrajwani@gmail.com)
 
-![Citizens Portal](./cp.gif)
-![Recipes](./recipe_form.gif)
-![Cognito](./cognito.gif)
-
-<img src="br_1.jpg" alt="Description" width="300" height="450"/>
+<div class="grid grid-cols-2">
+<img src="cp.gif" alt="Description" style="width: 100%; height: auto;"/>
+<img src="recipe_form.gif" alt="Description" style="width: 100%; height: auto;"/>
+<img src="cognito.gif" alt="Description" style="width: 100%; height: auto;"/>
+<img src="br_1.jpg" alt="Description" style="width: 45%; height: auto;"/>
+</div>
 
 ---
 
