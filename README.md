@@ -1,13 +1,22 @@
 <!-- Banner Image (Optional) -->
 <!-- ![Banner](https://yourdomain.com/banner.png) -->
+I’m a Product focused **Fullstack Engineer** that specializes in product design, web applications & enterprise cloud-native systems
 
-# 👋 
-
-I’m a **Product Designer** and **Fullstack Engineer** crafting intuitive products and building cloud-native systems for modern life.
-
-[![Startup](https://img.shields.io/badge/Portfolio-View-informational?style=flat&logo=google-chrome&color=4AB197)](https://nutrimap.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/imad-rajwani-423a12102/))
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail)](mailto:imadrajwani@gmail.com)
+
+<video controls width="600">
+  <source src="cp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<img src="br_1.jpg" alt="Description" width="320" height="450"/>
+
+Check out my meal planning [start up](https://nutrimap.netlify.app/)
+
+I ship platform features at Checkit Plc
+
+
 
 ---
 
@@ -29,14 +38,15 @@ I’m a **Product Designer** and **Fullstack Engineer** crafting intuitive produ
 - Food Delivery & Fulfillment Systems  
 - Geospatial Mapping & Routing
 
-### 🛒 Conscious Commerce  
-- Platforms for Recycling Second-Hand Clothes 👗  
-- Circular Economy for Bicycles 🚲
-
-### 🌍 Tech x Real Life  
+### 🌍 Sustanaible Tech
 - Cooking Apps 🍳  
 - Hospitality Tools 🛎️  
 - Wildlife Preservation Tech 🐘
+
+
+### 🛒 Conscious Commerce  
+- Platforms for Recycling Second-Hand Clothes 👗  
+- Circular Economy for Bicycles 🚲
 
 ---
 
@@ -48,7 +58,7 @@ I’m a **Product Designer** and **Fullstack Engineer** crafting intuitive produ
 
 ## 🧩 Let’s Collaborate
 
-💬 Got an idea at the intersection of **life**, **tech**, and **impact**? 
+💬 Got an idea at the intersection of **life**, **planet Earth**, and **impact**? 
 Feel free to reach out
 
 ---
