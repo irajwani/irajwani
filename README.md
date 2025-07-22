@@ -1,68 +1,51 @@
 <!-- Banner Image (Optional) -->
 <!-- ![Banner](https://yourdomain.com/banner.png) -->
-Welcome 👋
 
-🎨 I’m a Product focused **Fullstack Engineer**
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img width="180" height="180" src="tabby.png" />
+  
+  <br>
+  <br>
+  <br>
+  
+  Hi, I'm Imad - Fullstack Engineer and Nature lover
+  <p>
+    <a href="mailto:imadrajwani@gmail.com">E-Mail</a> • 
+    <a href="https://jaywcjlove.github.io/#/sponsor">Sponsor</a> • 
+  </p>
+  <br>
+  <br>
+  
+  ✦ My macOS/iOS application ✦
 
-🫑 Check out my meal planning [start up](https://nutrimap.netlify.app/)
+  <br>
+    <table>
+    <tr>
+      <td style="padding:8px;"><img src="cp.gif" alt="CP App" width="375" /></td>
+      <td style="padding:8px;"><img src="recipe_form.gif" alt="Recipe Form" width="375" /></td>
+    </tr>
+    <tr>
+      <td style="padding:8px;"><img src="cognito.gif" alt="Cognito" width="375" /></td>
+      <td style="padding:8px;"><img src="br_1.jpg" alt="Tablet View" width="375" /></td>
+    </tr>
+    </table>
+  </br>
 
-💼 I ship enterprise cloud-native systems and platform features at Checkit Plc
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/imad-rajwani-423a12102/))
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail)](mailto:imadrajwani@gmail.com)
 
-<div class="grid grid-cols-2">
-<img src="cp.gif" alt="Description" width=375 />
-<img src="recipe_form.gif" alt="Description" style="width: 375px; height: auto;"/>
-<img src="cognito.gif" alt="Description" style="width: 375px; height: auto;"/>
-<img src="br_1.jpg" alt="Description" style="width: 375px; height: auto;"/>
-</div>
+<h3> Welcome 👋, I specialize in Product Design & Fullstack Engineering</h3>
 
----
+<h4>Founder - [NutriMap](https://nutrimap.netlify.app/)</h2>
 
-- 🎨 **Product Design**  
-  Insight-driven design process: market research → wireframes → modern UI/UX
+💼 I ship enterprise cloud-native systems and platform features at Checkit Plc
 
-- 📱 **App Development**  
-  Web and mobile apps
-
-- ☁️ **Cloud-Native Engineering**  
-  Build and scale systems on **AWS** and **Azure** with high availability and performance in mind
-
----
-
-## 🔬 Domains I Love
-
-### 🛠️ Systems Engineering  
-- IoT & Work Management Platforms  
-- Food Delivery & Fulfillment Systems  
-- Geospatial Mapping & Routing
-
-### 🌍 Sustanaible Tech
-- Cooking Apps 🍳  
-- Hospitality Tools 🛎️  
-- Wildlife Preservation Tech 🐘
-
-
-### 🛒 Conscious Commerce  
-- Platforms for Recycling Second-Hand Clothes 👗  
-- Circular Economy for Bicycles 🚲
-
----
-
-## 🌱 Work Philosophy
-
-> I believe in **intentional, stress-free work**
-
----
-
-## 🧩 Let’s Collaborate
-
-💬 Got an idea at the intersection of **life**, **planet Earth**, and **impact**? 
-Feel free to reach out
-
----
-
-<!-- Optional: Add fun image or gif -->
-<!-- <img src="https://yourdomain.com/fun-illustration.gif" width="100%" alt="Work with purpose"> -->
-
+<h4>Product development history</h4>
