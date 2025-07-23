@@ -22,7 +22,7 @@
   <br>
   
   <div align="start" justify="start">
-    🧑‍🍳 Founder [NutriMap](https://nutrimap.netlify.app/) & 🌡️ Platform Engineer at Checkit Plc.
+    🧑‍🍳 Founder - <a href="https://nutrimap.netlify.app">NutriMap</a> & 🌡️ Platform Engineer at <a href="https://www.checkit.net/">Checkit Plc</a>.
   </div>
   <br>
   
