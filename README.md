@@ -22,7 +22,7 @@
   <br>
   
   <div align="start" justify="start">
-    🧑‍🍳 Founder [NutriMap](https://journaldev.netlify.app) & 🌡️ Platform Engineer at Checkit Plc.
+    🧑‍🍳 Founder [NutriMap](https://nutrimap.netlify.app/) & 🌡️ Platform Engineer at Checkit Plc.
   </div>
   <br>
   
@@ -45,4 +45,15 @@
 
 <details>
   <summary>Specialities</summary>
+
+  - Sleek Product Design
+  - Enterprise Cloud Native Systems
+</details>
+
+<details>
+  <summary>Interests</summary>
+  - IoT & Work Management
+  - Real Estate
+  - Food
+  - Grocery Delivery
 </details>
