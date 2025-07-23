@@ -20,32 +20,29 @@
     <a href="https://jaywcjlove.github.io/#/sponsor">Sponsor</a> • 
   </p>
   <br>
+  
+  <div align="start" justify="start">
+    🧑‍🍳 Founder [NutriMap](https://journaldev.netlify.app) & 🌡️ Platform Engineer at Checkit Plc.
+  </div>
   <br>
   
-  ✦ My macOS/iOS application ✦
+✦ 📱 Apps ✦
 
   <br>
-    <table>
-    <tr>
-      <td style="padding:8px;"><img src="cp.gif" alt="CP App" width="375" /></td>
-      <td style="padding:8px;"><img src="recipe_form.gif" alt="Recipe Form" width="375" /></td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><img src="cognito.gif" alt="Cognito" width="375" /></td>
-      <td style="padding:8px;"><img src="br_1.jpg" alt="Tablet View" width="375" /></td>
-    </tr>
+    <table style="border-collapse: collapse; border: none; width: 100%;">
+      <tr>
+        <td style="padding:8px; vertical-align: top;"><img src="cp.gif" alt="CP App" width="375" /></td>
+        <td style="padding:8px; vertical-align: top;"><img src="prop.gif" alt="Property Form" width="375" /></td>
+      </tr>
+      <tr>
+        <td style="padding:8px; vertical-align: top;"><img src="cognito.gif" alt="Cognito" width="375" /></td>
+        <td style="padding:8px; vertical-align: top;"><img src="recipe_form.gif" alt="Recipe Form" width="375" /></td>
+      </tr>
     </table>
   </br>
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/imad-rajwani-423a12102/))
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail)](mailto:imadrajwani@gmail.com)
-
-<h3> Welcome 👋, I specialize in Product Design & Fullstack Engineering</h3>
-
-<h4>Founder - [NutriMap](https://nutrimap.netlify.app/)</h2>
-
-💼 I ship enterprise cloud-native systems and platform features at Checkit Plc
-
-<h4>Product development history</h4>
+<details>
+  <summary>Specialities</summary>
+</details>
