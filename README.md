@@ -17,7 +17,7 @@
   Hi, I'm Imad - Fullstack Engineer and Nature lover
   <p>
     <a href="mailto:imadrajwani@gmail.com">E-Mail</a> • 
-    <a href="https://jaywcjlove.github.io/#/sponsor">Sponsor</a>
+    <a href="">Sponsor</a>
   </p>
   <br>
   
