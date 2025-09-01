@@ -17,11 +17,11 @@
   Hi, I'm Imad - Fullstack Engineer and Nature lover
   <p>
     <a href="mailto:imadrajwani@gmail.com">E-Mail</a> 
-<!--     <a href="">Sponsor</a> -->
   </p>
-  <br>
   
   <div align="start" justify="start">
+    <p><a href="https://anybodydev.netlify.app/">Blog</a> - Accessible guides on enterprise cloud systems</p>
+    <br style="height:4px"/>
     🧑‍🍳 Founder - <a href="https://nutrimap.netlify.app">NutriMap</a> & 🌡️ Platform Engineer at <a href="https://www.checkit.net/">Checkit Plc</a>.
   </div>
   <br>
